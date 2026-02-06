@@ -12,3 +12,9 @@ V této úloze musí hráč zjistit jednu z ip adres webu seznam.cz. Opovědi za
 V této úloze musí hráč za pomoci internetu najít, typ sítě s největší velikostí. Odpovědi hráč zadává ve tvaru: sitehunters{odpověď}
 ## Úloha 6
 Čeká na přepracování.
+
+
+## Správné odpovědi: 
+1. sitehunters{nano}
+2. sitehunters{2^128}
+3. 
