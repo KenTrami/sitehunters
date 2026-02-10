@@ -17,4 +17,5 @@ V této úloze musí hráč za pomoci internetu najít, typ sítě s největší
 ## Správné odpovědi: 
 1. sitehunters{nano}
 2. sitehunters{2^128}
-3. 
+3. 3
+4. "sitehunters{77.75.77.222}", nebo "sitehunters{77.75.77.221}", nebo "sitehunters{77.75.77.220}", nebo "sitehunters{77.75.79.222}"
